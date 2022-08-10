@@ -1,0 +1,1 @@
+evaluation_ = ['percentile', 'num', 'avg_d_mask_all_dice', 'avg_d_mask_all_iou', 'avg_d_mask_all_ppv', 'avg_d_mask_all_sensitivity']
